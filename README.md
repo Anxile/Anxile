@@ -1,15 +1,23 @@
 
-<h1 align="center">Hi there, I'm Yihe Chen 👋</h1>
-<p align="center">
-  <i>Backend & Full-Stack Developer | M.Eng @ McMaster | Seeking Fall 2025 Co-op</i>
-</p>
-
-<p align="center">
-  <a href="mailto:onebox.chen@outlook.com"><img src="https://img.shields.io/badge/email-onebox.chen%40outlook.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/onebox-chen"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/Anxile"><img src="https://img.shields.io/github/followers/Anxile?label=GitHub&style=flat-square&logo=github"></a>
-</p>
-
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://avatars.githubusercontent.com/u/110075767" width="100%" />
+    </td>
+    <td width="60%" align="left">
+      <h1 align="left">👋 Hi, I'm Yihe (Echo) Chen!</h1>
+      <h3>🎭 About Me</h3>
+      <p align="center">
+        <i>Backend & Full-Stack Developer | M.Eng @ McMaster | Seeking Fall 2025 Co-op</i>
+      </p>  
+      <p align="center">
+        <a href="mailto:onebox.chen@outlook.com"><img src="https://img.shields.io/badge/email-onebox.chen%40outlook.com-blue?style=flat-square&logo=gmail"></a>
+        <a href="https://linkedin.com/in/onebox-chen"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+        <a href="https://github.com/Anxile"><img src="https://img.shields.io/github/followers/Anxile?label=GitHub&style=flat-square&logo=github"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 About Me
@@ -21,25 +29,36 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
-![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+### 🖥️ **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis" />
+</p>
+
+### 🛠️ **Tools & Platforms & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anxile&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&layout=compact&theme=radical&langs_count=8" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anxile&show_icons=true&theme=default&count_private=true" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&layout=compact&theme=default" width="48%" height="200px"/>
 </p>
 
 ---
