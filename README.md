@@ -1,7 +1,6 @@
 
 <table>
   <tr>
-    <td width="60%" align="left">
       <h1 align="left">👋 Hi, I'm Yihe (Echo) Chen!</h1>
       <h3>🎭 About Me</h3>
       <p align="center">
@@ -12,7 +11,6 @@
         <a href="https://linkedin.com/in/onebox-chen"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
         <a href="https://github.com/Anxile"><img src="https://img.shields.io/github/followers/Anxile?label=GitHub&style=flat-square&logo=github"></a>
       </p>
-    </td>
   </tr>
 </table>
 ---
@@ -51,14 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anxile&show_icons=true&theme=default&count_private=true" width="48%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&layout=compact&theme=default" width="48%" height="200px"/>
-</p>
-
----
 
 ## 🧩 Featured Projects
 
