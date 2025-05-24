@@ -1,9 +1,6 @@
 
 <table>
   <tr>
-    <td width="40%">
-      <img src="https://avatars.githubusercontent.com/u/110075767" width="100%" />
-    </td>
     <td width="60%" align="left">
       <h1 align="left">👋 Hi, I'm Yihe (Echo) Chen!</h1>
       <h3>🎭 About Me</h3>
@@ -65,23 +62,16 @@
 
 ## 🧩 Featured Projects
 
+- 🔗 [Paloma LLM Toolkit (WIP)](https://github.com/Anxile/Paloma_LLM.git)  
+  Python | LangChain | FastAPI | Vector DB
+  
 - 🔗 [Lionaire Trading](https://github.com/Anxile/lionaire-trading.git)  
-  Spring Boot | JPA | JWT | PostgreSQL | Stripe Sandbox  
+  Spring Boot | JPA | JWT | MySQL | Stripe
 
 - 🔗 [Portfolio Website](https://github.com/Anxile/myPortfolio.git)  
   Ruby on Rails | MVC | PostgreSQL | Devise | JWT  
 
-- 🔗 [Paloma LLM Toolkit (WIP)](https://github.com/Anxile/Paloma_LLM.git)  
-  Python | LangChain | FastAPI | Vector DB  
-
 ---
 
-## 📫 Let's Connect!
 
-- 📧 Email: [onebox.chen@outlook.com](mailto:onebox.chen@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/onebox-chen](https://linkedin.com/in/onebox-chen)
-- 🌐 Portfolio: [paloma.club](https://paloma.club)
-
----
-
-<i>🔍 Open to Co-op roles in backend/full-stack development (Java/Python preferred) for Fall 2025 term. Willing to relocate.</i>
+<i>🔍 Open to Co-op roles in backend/full-stack development (Python/Java preferred) for Fall 2025 term. Willing to relocate.</i>
