@@ -1,8 +1,7 @@
 
 <table>
   <tr>
-      <h1 align="left">👋 Hi, I'm Yihe (Echo) Chen!</h1>
-      <h3>🎭 About Me</h3>
+      <h1 align="center">👋 Hi, I'm Yihe (Echo) Chen!</h1>
       <p align="center">
         <i>Backend & Full-Stack Developer | M.Eng @ McMaster | Seeking Fall 2025 Co-op</i>
       </p>  
@@ -13,7 +12,6 @@
       </p>
   </tr>
 </table>
----
 
 ## 🚀 About Me
 
@@ -22,7 +20,6 @@
 - 🧠 Working on **LLM-enhanced matchmaking algorithms** at Paloma.
 - 🌱 Learning advanced **AWS architecture** and **JUnit testing** for microservices.
 
----
 
 ## 🚀 Tech Stack
 
@@ -47,8 +44,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
----
-
 
 ## 🧩 Featured Projects
 
@@ -60,8 +55,6 @@
 
 - 🔗 [Portfolio Website](https://github.com/Anxile/myPortfolio.git)  
   Ruby on Rails | MVC | PostgreSQL | Devise | JWT  
-
----
 
 
 <i>🔍 Open to Co-op roles in backend/full-stack development (Python/Java preferred) for Fall 2025 term. Willing to relocate.</i>
