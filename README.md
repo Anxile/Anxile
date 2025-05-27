@@ -48,13 +48,13 @@
 ## 🧩 Featured Projects
 
 - 🔗 [Paloma LLM Toolkit (WIP)](https://github.com/Anxile/Paloma_LLM.git)  
-  Python | LangChain | FastAPI | Vector DB
+  Python | RESTAPI | Django | ML Models
   
-- 🔗 [Lionaire Trading](https://github.com/Anxile/lionaire-trading.git)  
-  Spring Boot | JPA | JWT | MySQL | Stripe
+- 🔗 [EduTrade](https://github.com/Anxile/lionaire-trading.git)  
+  Spring Boot | JPA | MySQL | JWT | Stripe
 
 - 🔗 [Portfolio Website](https://github.com/Anxile/myPortfolio.git)  
-  Ruby on Rails | MVC | PostgreSQL | Devise | JWT  
+  Ruby on Rails | AWS | PostgreSQL | Devise
 
 
 <i>🔍 Open to Co-op roles in backend/full-stack development (Python/Java preferred) for Fall 2025 term. Willing to relocate.</i>
