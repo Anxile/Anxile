@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Lionaire Trading**, a Spring Boot-based crypto trading simulator.
-- 🛠️ Built a personal portfolio using **Rails + PostgreSQL + JWT**, hosted on **Render + AWS RDS**.
 - 🧠 Working on **LLM-enhanced matchmaking algorithms** at Paloma.
-- 🌱 Learning advanced **AWS architecture** and **JUnit testing** for microservices.
+- 🔭 Currently building **Lionaire Trading**, a Spring Boot-based crypto trading simulator.
+- 🛠️ Built a personal portfolio using **Rails + JWT**, hosted on **Render + AWS**.
+- 🌱 Learning advanced **AWS architecture** and **K8s** for microservices.
 
 
 ## 🚀 Tech Stack
