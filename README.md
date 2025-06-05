@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis" />
-  <img src="https://github.com/user-attachments/assets/48951584-eab7-49d4-8dfa-725a90869045" />
 
 </p>
 
