@@ -57,4 +57,4 @@
   Ruby on Rails | AWS | PostgreSQL | Devise
 
 
-<i>🔍 Open to Co-op roles in QA Automation & full-stack development (Python/Java preferred) for Fall 2025 term. Willing to relocate.</i>
+<i>🔍 Open to Co-op roles in backend/full-stack development & QA Automationfor Fall 2025 term. Willing to relocate.</i>
