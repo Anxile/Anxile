@@ -56,5 +56,7 @@
 - 🔗 [Portfolio Website](https://github.com/Anxile/myPortfolio.git)  
   Ruby on Rails | AWS | PostgreSQL | Devise
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&layout=compact&theme=default)
+
 
 <i>🔍 Open to Co-op roles in backend/full-stack development & QA Automationfor Fall 2025 term. Willing to relocate.</i>
