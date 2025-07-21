@@ -45,6 +45,9 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 📊 Languages Summary
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&exclude_repo=Paloma_LLM,paloma-model,cps-ss-2025s&layout=compact&theme=default)
+
 ## 🧩 Featured Projects
 
 - 🔗 [Paloma LLM Toolkit (WIP)](https://github.com/Anxile/Paloma_LLM.git)  
@@ -55,7 +58,5 @@
 
 - 🔗 [Portfolio Website](https://github.com/Anxile/myPortfolio.git)  
   Ruby on Rails | AWS | PostgreSQL | Devise
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&exclude_repo=Paloma_LLM,paloma-models&layout=compact&theme=default)
 
 <i>🔍 Open to Co-op roles in backend/full-stack development & QA Automationfor Fall 2025 term. Willing to relocate.</i>
