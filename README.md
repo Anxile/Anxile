@@ -46,7 +46,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 Languages Summary
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&exclude_repo=Paloma_LLM,paloma-models,cps-ss-2025,CabinGuard&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&exclude_repo=Paloma_LLM,paloma-models,cps-ss-2025,CabinGuard,Edutrade,EduTrade-archive&layout=compact&theme=default)
 
 ## 🧩 Featured Projects
 
