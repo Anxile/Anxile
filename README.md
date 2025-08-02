@@ -69,4 +69,4 @@
 - 🔗 [Portfolio Website](https://github.com/Anxile/myPortfolio.git)  
   Ruby on Rails | AWS | PostgreSQL | Docker | CD
 
-<i>🔍 Open to Co-op roles in backend/full-stack development & QA Automationfor Fall 2025 term. Willing to relocate.</i>
+<i>🔍 Open to Co-op roles in full-stack development & QA Automation. Willing to relocate.</i>
