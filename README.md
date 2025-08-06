@@ -3,7 +3,7 @@
   <tr>
       <h1 align="center">👋 Hi, I'm Yihe (Echo) Chen!</h1>
       <p align="center">
-        <i>Backend & Full-Stack Developer | M.Eng @ McMaster | Seeking Fall 2025 Co-op</i>
+        <i>Full-Stack Developer | M.Eng @ McMaster | Seeking Co-op</i>
       </p>  
       <p align="center">
         <a href="mailto:onebox.chen@outlook.com"><img src="https://img.shields.io/badge/email-onebox.chen%40outlook.com-blue?style=flat-square&logo=gmail"></a>
