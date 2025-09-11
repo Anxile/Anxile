@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-- 🧠 Working on **LLM-enhanced matchmaking algorithms** at Paloma.
-- 🔭 Currently building **Lionaire Trading**, a Spring Boot-based crypto trading simulator.
-- 🛠️ Built a personal portfolio using **Rails + JWT**, hosted on **Render + AWS**.
-- 🌱 Learning advanced **AWS architecture** and **K8s** for microservices.
+- 🧠 Working on **building socail platform** for Paloma.
+- 🔭 Currently building **EduTrade**, a crypto trading simulator.
+- 🛠️ Built a personal portfolio using **Rails + JWT**, hosted on **AWS**.
+- 🌱 Learning advanced **AWS architecture** and **jenkins** for CI/CD pipelines.
 
 
 ## 🚀 Tech Stack
@@ -53,6 +53,7 @@
   ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ## 📊 Languages Summary
