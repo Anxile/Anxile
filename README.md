@@ -3,7 +3,8 @@
   <tr>
       <h1 align="center">👋 Hi, I'm Yihe (Echo) Chen!</h1>
       <p align="center">
-        <i>Full-Stack Developer | M.Eng @ McMaster | Seeking Co-op | [![Website](https://img.shields.io/badge/My%20Website-bytecho.ca-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytecho.ca)</i>
+        <i>Full-Stack Developer | M.Eng @ McMaster | Seeking Co-op | [![Website](https://img.shields.io/badge/My%20Website-bytecho.ca-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytecho.ca)
+</i>
       </p>  
       <p align="center">
         <a href="mailto:onebox.chen@outlook.com"><img src="https://img.shields.io/badge/email-onebox.chen%40outlook.com-blue?style=flat-square&logo=gmail"></a>
