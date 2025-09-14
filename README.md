@@ -58,14 +58,14 @@
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## 📊 Languages Summary
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&exclude_repo=Paloma_LLM,paloma-models,cps-ss-2025,CabinGuard,Edutrade,EduTrade-archive&layout=compact&theme=default)
+<!--## 📊 Languages Summary
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxile&exclude_repo=Paloma_LLM,paloma-models,cps-ss-2025,CabinGuard,Edutrade,EduTrade-archive&layout=compact&theme=default) -->
 
 ## 🧩 Featured Projects
 
-- 🔗 [Paloma LLM Toolkit (WIP)](https://github.com/Anxile/Paloma_LLM.git)  
+<!--- 🔗 [Paloma LLM Toolkit (WIP)](https://github.com/Anxile/Paloma_LLM.git)  
   Python | RESTAPI | Django | ML Models
-  
+  -->
 - 🔗 [EduTrade](https://github.com/Anxile/lionaire-trading.git)  
   Spring Boot | JPA | MySQL | JWT | Stripe | CI
 
