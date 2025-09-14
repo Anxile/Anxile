@@ -3,8 +3,7 @@
   <tr>
       <h1 align="center">👋 Hi, I'm Yihe (Echo) Chen!</h1>
       <p align="center">
-        <i>_Full-Stack Developer | M.Eng @ McMaster | Seeking Co-op |_
-[![Website](https://img.shields.io/badge/My%20Website-bytecho.ca-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytecho.ca)
+        <i>Full-Stack Developer | M.Eng @ McMaster | Seeking Co-op | bytecho.ca
 
 </i>
       </p>  
